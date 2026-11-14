@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+header {
+    background-color: darkgrey;
+    padding: 10px;
+}
+
+nav {
+    padding: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+
+img {
+    width: 400px;
+}
+
+ul{
+    font-size: 20px;
+}
